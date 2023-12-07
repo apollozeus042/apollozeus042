@@ -3,11 +3,9 @@
 ## About Me
 I am a Computer Science student of De La Salle University- Dasmariñas and an aspiring developer!
 
-<details>
-  <summary> <bold>Contacts<bold> </summary>
-  **Email✉** 
-  apollozeus.espinosa@gmail.com
-</details>
+## Contacts
+**Email✉**
+apollozeus.espinosa@gmail.com
 
 
 <!--
