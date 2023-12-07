@@ -1,10 +1,10 @@
 # Hi! I'm Zeus! 👋
-<br>
+
 ## About Me
 I am a Computer Science student of De La Salle University- Dasmariñas and an aspiring developer!
 
 ## Contacts
-# Email✉
+### Email✉
 apollozeus.espinosa@gmail.com
 
 <!--
