@@ -4,7 +4,7 @@
 I am a Computer Science student of De La Salle University- Dasmariñas and an aspiring developer!
 
 <details>
-  <summary> **Contacts** </summary>
+  <summary> <bold>Contacts<bold> </summary>
   **Email✉** 
   apollozeus.espinosa@gmail.com
 </details>
