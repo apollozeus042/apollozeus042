@@ -1,6 +1,5 @@
-# Hi! I'm Zeus! 👋
+# Hi! I'm Zeus! 👋<br /><br />
 
-## About Me
 I am a Computer Science student of De La Salle University- Dasmariñas and an aspiring developer!
 
 ## Contacts
