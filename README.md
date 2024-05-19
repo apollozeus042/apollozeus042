@@ -1,4 +1,4 @@
-# Hi! I'm Zeus! 👋<br /><br />
+# Hi! I'm Zeus! 👋
 
 I am a Computer Science student of De La Salle University- Dasmariñas and an aspiring developer!
 
